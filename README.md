@@ -1,5 +1,5 @@
 # web-scraping
-Repository containing some of my web scraper programs. These programs are written in Python and utilize the BeautifulSoup and pandas libraries.
+Repository containing some of my web scraper programs. These programs are saved as Jupyter Notebooks; they are written in Python and utilize the BeautifulSoup and pandas libraries.
 
 ## penn_cities
 This program scrapes data from Wikipedia about cities in Pennsylvania. I cleaned the data using pandas before exporting it as a singular CSV (penn_cities.csv).
